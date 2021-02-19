@@ -18,3 +18,7 @@ I also like Maths & Chess, and am a huge linux fan (arch).
 
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikadore&theme=highcontrast)
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Mikadore&count_private=true&show_icons=true&theme=highcontrast)
+
+For anyone interested, this is my current os config:
+
+![Neofetch](https://github.com/Mikadore/Mikadore/blob/main/neofetch.png)
