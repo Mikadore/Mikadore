@@ -1,7 +1,7 @@
 [![Profile Banner](https://github.com/Mikadore/Mikadore/blob/main/banner.png)](https://mikadore.eu)
 
-I'm a czech high school student & ~~C++~~ (still learning) Rust developer,
-I'm mostly interested in building network related applications. I'm fine with Golang, (Node) JS & Python as well. (+ i'm awful at HTML/CSS, Java)
+I'm a czech high school student & Rust developer,
+I'm mostly interested in systems programming & building network related applications. I'm fine with Golang, (Node) JS & Python as well. (+ i'm awful at HTML/CSS, Java)
 
 [**You can also take a look at my website**](https://mikadore.eu)
 
@@ -21,4 +21,4 @@ I also like Maths & Chess, and am a huge linux fan (arch).
 
 For anyone interested, this is my current os config:
 
-![Neofetch](https://github.com/Mikadore/Mikadore/blob/main/neofetch.png)
+![Neofetch](https://raw.githubusercontent.com/Mikadore/Mikadore/main/Screenshot%20from%202021-03-27%2022-46-45.png)
