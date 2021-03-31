@@ -1,7 +1,10 @@
 [![Profile Banner](https://github.com/Mikadore/Mikadore/blob/main/banner.png)](https://mikadore.eu)
 
 I'm a czech high school student & Rust developer,
-I'm mostly interested in systems programming & building network related applications. I'm fine with Golang, (Node) JS & Python as well. (+ i'm awful at HTML/CSS, Java)
+I'm mostly interested in systems programming & building network related applications. 
+I consider myself proficient in C++, and
+fine with Golang, (Node) JS & Python as well. 
+(some very basic html/css, java sprinkled in as well)
 
 [**You can also take a look at my website**](https://mikadore.eu)
 
