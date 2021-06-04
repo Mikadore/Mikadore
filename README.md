@@ -24,4 +24,4 @@ I also like Maths & Chess, and am a huge linux fan (arch).
 
 For anyone interested, this is my current os config:
 
-![Neofetch](https://raw.githubusercontent.com/Mikadore/Mikadore/main/Screenshot%20from%202021-03-30%2008-20-16.png)
+![Neofetch](https://raw.githubusercontent.com/Mikadore/Mikadore/main/Screenshot_20210604_215644.png)
